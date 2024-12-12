@@ -1,0 +1,1501 @@
+
+<tr class="" idresultado="14087">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">1</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 9"><div class="puesto">1</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"> Czech Republic </div><div>Tereza Koptíková  <br>  Markéta Freislerová<br></div>
+		<div class="ver_movil"><span class="direccion">Prague (Cze) / Nupaky (Cze)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Prague (Cze) / Nupaky (Cze)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Czech Republic</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:47:41 </div>
+				<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>-</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>-</div></td>
+</tr>
+<tr class="" idresultado="14140">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">2</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 7"><div class="puesto">2</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Katharina Reiner  <br>  Chiara Dellantonio<br></div>
+		<div class="ver_movil"><span class="direccion">Hof (Bavaria) / Munich (Bayern)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Hof (Bavaria) / Munich (Bayern)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:48:06 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 25'' ( alle   25'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 25''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle   25''</div></td>
+</tr>
+<tr class="" idresultado="14091">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">3</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 6"><div class="puesto">3</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Kelly Walter  <br>  Andrea Peng<br></div>
+		<div class="ver_movil"><span class="direccion">Phoenix (Arizona) / San Francisco (California)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Phoenix (Arizona) / San Francisco (California)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:49:09 </div>
+		<div class="ver_movil diftiempo"><span class="">+1' 03' ( alle  1' 28'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+1' 03'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  1' 28''</div></td>
+</tr>
+<tr class="" idresultado="14141">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">4</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 1"><div class="puesto">4</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/ES.png" title="Spain"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/ES.png" title="Spain"> Spain </div><div>Gisela Arranz Toro  <br>  Alejandro Clemente León<br></div>
+		<div class="ver_movil"><span class="direccion">Madrid / Barcelona</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Madrid / Barcelona</td>
+	<td valign="middle" class="ver_pc" nowrap="">Spain</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:52:38 </div>
+		<div class="ver_movil diftiempo"><span class="">+3' 29'' ( alle  4' 57'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+3' 29''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  4' 57''</div></td>
+</tr>
+<tr class="" idresultado="14161">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">5</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 11"><div class="puesto">5</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Jeanne Roiter  <br>  Cathy Roiter<br></div>
+		<div class="ver_movil"><span class="direccion">Duvall (Washington)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Duvall (Washington)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:52:58 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 20'' ( alle  5' 17'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 20''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  5' 17''</div></td>
+</tr>
+<tr class="" idresultado="14088">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">6</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 12"><div class="puesto">6</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/NO.png" title="Norway"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/NO.png" title="Norway"> Norway </div><div>Kristin Thuv  <br>  Linda Bremnes Anderssen<br></div>
+		<div class="ver_movil"><span class="direccion">Bodø (Norge) / Valnesfjord (Nordland)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Bodø (Norge) / Valnesfjord (Nordland)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Norway</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:54:30 </div>
+		<div class="ver_movil diftiempo"><span class="">+1' 32'' ( alle  6' 49'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+1' 32''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  6' 49''</div></td>
+</tr>
+<tr class="" idresultado="14138">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">7</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 3"><div class="puesto">7</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/WP.png" title="International Puzzlers"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/WP.png" title="International Puzzlers"> International Puzzlers </div><div>Lina Ivanova  <br>  Mariia Matiushkina<br></div>
+		<div class="ver_movil"><span class="direccion">Novosibirsk</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Novosibirsk</td>
+	<td valign="middle" class="ver_pc" nowrap="">International Puzzlers</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:54:41 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 11'' ( alle  7' 00')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 11''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  7' 00'</div></td>
+</tr>
+<tr class="" idresultado="14139">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">8</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 10"><div class="puesto">8</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/PL.png" title="Poland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/PL.png" title="Poland"> Poland </div><div>Natalia Ptaszek  <br>  Wiktor Kacprzak<br></div>
+		<div class="ver_movil"><span class="direccion">Nowogard (Zachodniopomorskie) / Kraków (Polska)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Nowogard (Zachodniopomorskie) / Kraków (Polska)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Poland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:54:53 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 12'' ( alle  7' 12'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 12''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  7' 12''</div></td>
+</tr>
+<tr class="" idresultado="14152">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">9</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 13"><div class="puesto">9</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/HU.png" title="Hungary"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/HU.png" title="Hungary"> Hungary </div><div>Mercédesz Arthofer  <br>  Vanda Varga<br></div>
+		<div class="ver_movil"><span class="direccion">Sopron (Győr-Moson-Sopron) / Budapest</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Sopron (Győr-Moson-Sopron) / Budapest</td>
+	<td valign="middle" class="ver_pc" nowrap="">Hungary</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:55:06 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 13'' ( alle  7' 25'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 13''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  7' 25''</div></td>
+</tr>
+<tr class="" idresultado="14094">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">10</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 2"><div class="puesto">10</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/AU.png" title="Australia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/AU.png" title="Australia"> Australia </div><div>Melissa Townsend  <br>  Hannah Farthing<br></div>
+		<div class="ver_movil"><span class="direccion">Gold Coast (Queensland) / Warragul (Victoria)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Gold Coast (Queensland) / Warragul (Victoria)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Australia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:55:18 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 12'' ( alle  7' 37'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 12''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  7' 37''</div></td>
+</tr>
+<tr class="" idresultado="14098">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">11</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 29"><div class="puesto">11</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Karen Kavett  <br>  Tiffany Medeiros<br></div>
+		<div class="ver_movil"><span class="direccion">Los Angeles (California) / Lowell (Massachusetts)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Los Angeles (California) / Lowell (Massachusetts)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:56:05 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 47'' ( alle  8' 24'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 47''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  8' 24''</div></td>
+</tr>
+<tr class="" idresultado="14096">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">12</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 4"><div class="puesto">12</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/HU.png" title="Hungary"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/HU.png" title="Hungary"> Hungary </div><div>Brigitta Vinkler  <br>  Brigitta Pozsa<br></div>
+		<div class="ver_movil"><span class="direccion">Vác / Budapest</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Vác / Budapest</td>
+	<td valign="middle" class="ver_pc" nowrap="">Hungary</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:56:22 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 17'' ( alle  8' 41'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 17''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  8' 41''</div></td>
+</tr>
+<tr class="" idresultado="14090">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">12</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 20"><div class="puesto">12</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"> Czech Republic </div><div>Jana Ondroušková  <br>  Kateřina Klinková<br></div>
+		<div class="ver_movil"><span class="direccion">Brno / Praha (Czech Republic)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Brno / Praha (Czech Republic)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Czech Republic</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:56:22 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 00' ( alle  8' 41'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 00'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  8' 41''</div></td>
+</tr>
+<tr class="" idresultado="14149">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">14</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 17"><div class="puesto">14</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Emma Pan  <br>  Mari Black<br></div>
+		<div class="ver_movil"><span class="direccion">West Roxbury (Massachusetts) / Cambridge (Ma)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">West Roxbury (Massachusetts) / Cambridge (Ma)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:56:31 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 09' ( alle  8' 50'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 09'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  8' 50''</div></td>
+</tr>
+<tr class="" idresultado="14109">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">15</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 14"><div class="puesto">15</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Sarah Schuler  <br>  Lauren Kautz<br></div>
+		<div class="ver_movil"><span class="direccion">St. Paul (Minnesota) / Minneapolis (Mn)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">St. Paul (Minnesota) / Minneapolis (Mn)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:56:53 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 22'' ( alle  9' 12'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 22''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  9' 12''</div></td>
+</tr>
+<tr class="" idresultado="14092">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">16</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 8"><div class="puesto">16</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Becca Taylor  <br>  Alice Rowe<br></div>
+		<div class="ver_movil"><span class="direccion">Redwood City (California) / Boulder (Co)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Redwood City (California) / Boulder (Co)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:57:20 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 27'' ( alle  9' 39'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 27''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  9' 39''</div></td>
+</tr>
+<tr class="" idresultado="14143">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">17</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 5"><div class="puesto">17</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/AU.png" title="Australia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/AU.png" title="Australia"> Australia </div><div>Rhianna Eriksen  <br>  Katrina Coleman<br></div>
+		<div class="ver_movil"><span class="direccion">Brisbane (Queensland) / Launceston (Tasmania)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Brisbane (Queensland) / Launceston (Tasmania)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Australia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:57:44 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 24'' ( alle  10' 03')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 24''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  10' 03'</div></td>
+</tr>
+<tr class="" idresultado="14153">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">18</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 15"><div class="puesto">18</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DK.png" title="Denmark"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DK.png" title="Denmark"> Denmark </div><div>Iris Bakker  <br>  Sofie Juel Andersen<br></div>
+		<div class="ver_movil"><span class="direccion">Aarhus (Midtjylland)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Aarhus (Midtjylland)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Denmark</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:57:58 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 14'' ( alle  10' 17'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 14''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  10' 17''</div></td>
+</tr>
+<tr class="" idresultado="14112">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">19</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 16"><div class="puesto">19</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/SK.png" title="Slovakia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/SK.png" title="Slovakia"> Slovakia </div><div>Lenka Henao Mišíková  <br>  Veronika Valt<br></div>
+		<div class="ver_movil"><span class="direccion">Lisbon / Bratislava</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Lisbon / Bratislava</td>
+	<td valign="middle" class="ver_pc" nowrap="">Slovakia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">00:58:20 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 22'' ( alle  10' 39'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 22''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  10' 39''</div></td>
+</tr>
+<tr class="" idresultado="14099">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">20</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 38"><div class="puesto">20</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DK.png" title="Denmark"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DK.png" title="Denmark"> Denmark </div><div>Astrid Roesen Abildgaard  <br>  Olivia Waltz<br></div>
+		<div class="ver_movil"><span class="direccion">Copenhagen (Denmark)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Copenhagen (Denmark)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Denmark</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:01:05 </div>
+		<div class="ver_movil diftiempo"><span class="">+2' 45'' ( alle  13' 24'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+2' 45''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  13' 24''</div></td>
+</tr>
+<tr class="" idresultado="14095">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">21</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 44"><div class="puesto">21</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/FR.png" title="France"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/FR.png" title="France"> France </div><div>Cécile Martin Fredoueil  <br>  Lisa Cruz<br></div>
+		<div class="ver_movil"><span class="direccion">Louisfert (Loire Atlantique)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Louisfert (Loire Atlantique)</td>
+	<td valign="middle" class="ver_pc" nowrap="">France</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:01:06 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 01' ( alle  13' 25'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 01'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  13' 25''</div></td>
+</tr>
+<tr class="" idresultado="14119">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">22</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 32"><div class="puesto">22</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/ES.png" title="Spain"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/ES.png" title="Spain"> Spain </div><div>Ana Isabel Jimeno Jordá  <br>  Ana Gil Luciano<br></div>
+		<div class="ver_movil"><span class="direccion">Madrid</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Madrid</td>
+	<td valign="middle" class="ver_pc" nowrap="">Spain</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:01:08 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 02' ( alle  13' 27'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 02'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  13' 27''</div></td>
+</tr>
+<tr class="" idresultado="14147">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">23</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 24"><div class="puesto">23</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Laura Pescher  <br>  Magdalena Alberti<br></div>
+		<div class="ver_movil"><span class="direccion">Gelsenkirchen (Nrw) / München (Bayern)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Gelsenkirchen (Nrw) / München (Bayern)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:01:33 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 25'' ( alle  13' 52'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 25''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  13' 52''</div></td>
+</tr>
+<tr class="" idresultado="14142">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">24</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 34"><div class="puesto">24</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/FR.png" title="France"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/FR.png" title="France"> France </div><div>Agnès Graulle  <br>  Elodie Serrano<br></div>
+		<div class="ver_movil"><span class="direccion">Toulouse (Occitanie) / Lyon (Rhone)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Toulouse (Occitanie) / Lyon (Rhone)</td>
+	<td valign="middle" class="ver_pc" nowrap="">France</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:01:44 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 11'' ( alle  14' 03')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 11''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  14' 03'</div></td>
+</tr>
+<tr class="" idresultado="14164">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">25</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 55"><div class="puesto">25</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Tammy McLeod  <br>  Yvonne Feucht<br></div>
+		<div class="ver_movil"><span class="direccion">Los Angeles (California) / Burbank (California)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Los Angeles (California) / Burbank (California)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:01:47 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 03' ( alle  14' 06')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 03'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  14' 06'</div></td>
+</tr>
+<tr class="" idresultado="14167">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">26</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 31"><div class="puesto">26</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/AU.png" title="Australia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/AU.png" title="Australia"> Australia </div><div>Finn Parker  <br>  Adele Arthur<br></div>
+		<div class="ver_movil"><span class="direccion">Artarmon (Nsw) / Newcastle (New South Wales)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Artarmon (Nsw) / Newcastle (New South Wales)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Australia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:01:59 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 12'' ( alle  14' 18'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 12''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  14' 18''</div></td>
+</tr>
+<tr class="" idresultado="14127">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">27</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 46"><div class="puesto">27</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Kyle Kossin  <br>  Megan Jones<br></div>
+		<div class="ver_movil"><span class="direccion">Bountiful (Utah) / Provo (Ut)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Bountiful (Utah) / Provo (Ut)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:02:15 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 16'' ( alle  14' 34'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 16''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  14' 34''</div></td>
+</tr>
+<tr class="" idresultado="14097">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">28</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 22"><div class="puesto">28</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/HU.png" title="Hungary"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/HU.png" title="Hungary"> Hungary </div><div>Viktória Gyüre  <br>  Tekla Rozs<br></div>
+		<div class="ver_movil"><span class="direccion">Budapest / Hort (Heves)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Budapest / Hort (Heves)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Hungary</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:02:28 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 13'' ( alle  14' 47'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 13''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  14' 47''</div></td>
+</tr>
+<tr class="" idresultado="14100">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">29</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 40"><div class="puesto">29</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/NL.png" title="The Netherlands"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/NL.png" title="The Netherlands"> The Netherlands </div><div>Sandra Kunnen  <br>  Maaike Van den Brink<br></div>
+		<div class="ver_movil"><span class="direccion">Haarlem (Noord-Holland) / Utrecht</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Haarlem (Noord-Holland) / Utrecht</td>
+	<td valign="middle" class="ver_pc" nowrap="">The Netherlands</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:02:31 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 03' ( alle  14' 50'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 03'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  14' 50''</div></td>
+</tr>
+<tr class="" idresultado="14093">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">30</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 18"><div class="puesto">30</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/ES.png" title="Spain"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/ES.png" title="Spain"> Spain </div><div>Soraya Pérez Carayol  <br>  Gabriel Moreno Turcu<br></div>
+		<div class="ver_movil"><span class="direccion">Ibi (Alicante) / Guadalajara</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Ibi (Alicante) / Guadalajara</td>
+	<td valign="middle" class="ver_pc" nowrap="">Spain</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:02:56 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 25'' ( alle  15' 15'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 25''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  15' 15''</div></td>
+</tr>
+<tr class="" idresultado="14160">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">31</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 28"><div class="puesto">31</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Andrea Kyle  <br>  Dawne Rasmusson<br></div>
+		<div class="ver_movil"><span class="direccion">Saint Paul (Minnesota) / Prior Lake (Minnesota)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Saint Paul (Minnesota) / Prior Lake (Minnesota)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:03:15 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 19'' ( alle  15' 34'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 19''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  15' 34''</div></td>
+</tr>
+<tr class="" idresultado="14125">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">32</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 76"><div class="puesto">32</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/CA.png" title="Canada"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/CA.png" title="Canada"> Canada </div><div>Devon Donaldson  <br>  Sophie Helg<br></div>
+		<div class="ver_movil"><span class="direccion">Toronto (Ontario) / Montreal (Quebec)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Toronto (Ontario) / Montreal (Quebec)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Canada</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:03:23 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 08' ( alle  15' 42'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 08'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  15' 42''</div></td>
+</tr>
+<tr class="" idresultado="14107">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">33</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 52"><div class="puesto">33</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/PL.png" title="Poland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/PL.png" title="Poland"> Poland </div><div>Joanna Kołcun  <br>  Agata Zasada<br></div>
+		<div class="ver_movil"><span class="direccion">Wrocław (Dolnośląskie)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Wrocław (Dolnośląskie)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Poland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:03:27 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 04' ( alle  15' 46'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 04'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  15' 46''</div></td>
+</tr>
+<tr class="" idresultado="14101">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">34</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 42"><div class="puesto">34</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Lara Friedrich  <br>  Lisa-Marie Friedrich<br></div>
+		<div class="ver_movil"><span class="direccion">Heidelberg (Baden-Wuerttemberg) / Ottenhoefen Im Schwarzwald (Baden-Württemberg)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Heidelberg (Baden-Wuerttemberg) / Ottenhoefen Im Schwarzwald (Baden-Württemberg)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:03:33 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 06' ( alle  15' 52'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 06'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  15' 52''</div></td>
+</tr>
+<tr class="" idresultado="14114">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">35</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 83"><div class="puesto">35</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/AT.png" title="Austria"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/AT.png" title="Austria"> Austria </div><div>Theresa Wihann  <br>  Elisabeth Marecek<br></div>
+		<div class="ver_movil"><span class="direccion">Vienna (Austria)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Vienna (Austria)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Austria</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:03:57 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 24'' ( alle  16' 16'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 24''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  16' 16''</div></td>
+</tr>
+<tr class="" idresultado="14124">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">36</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 66"><div class="puesto">36</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"> Czech Republic </div><div>Šárka Červinková  <br>  Hana Červinková<br></div>
+		<div class="ver_movil"><span class="direccion">Hnatnice (Česká Republika)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Hnatnice (Česká Republika)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Czech Republic</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:04:19 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 22'' ( alle  16' 38'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 22''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  16' 38''</div></td>
+</tr>
+<tr class="" idresultado="14116">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">37</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 78"><div class="puesto">37</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"> Czech Republic </div><div>Jana Chytkova  <br>  Adam Šuráň<br></div>
+		<div class="ver_movil"><span class="direccion">Prague (-) / Brno</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Prague (-) / Brno</td>
+	<td valign="middle" class="ver_pc" nowrap="">Czech Republic</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:04:52 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 33'' ( alle  17' 11'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 33''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  17' 11''</div></td>
+</tr>
+<tr class="" idresultado="14151">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">38</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 19"><div class="puesto">38</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/WP.png" title="International Puzzlers"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/WP.png" title="International Puzzlers"> International Puzzlers </div><div>Taisiya Voronova  <br>  Natalia Komarova<br></div>
+		<div class="ver_movil"><span class="direccion">Novosibirsk</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Novosibirsk</td>
+	<td valign="middle" class="ver_pc" nowrap="">International Puzzlers</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:05:07 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 15'' ( alle  17' 26'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 15''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  17' 26''</div></td>
+</tr>
+<tr class="" idresultado="14146">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">39</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 26"><div class="puesto">39</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Emily Chandran  <br>  Sammy Brownlow<br></div>
+		<div class="ver_movil"><span class="direccion">North Attleborough (Massachusetts) / Westport (Ct)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">North Attleborough (Massachusetts) / Westport (Ct)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:05:11 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 04' ( alle  17' 30'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 04'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  17' 30''</div></td>
+</tr>
+<tr class="" idresultado="14102">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">40</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 35"><div class="puesto">40</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/FI.png" title="Finland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/FI.png" title="Finland"> Finland </div><div>Emilia Liberman  <br>  Emilia Korhonen<br></div>
+		<div class="ver_movil"><span class="direccion">Espoo (Uusimaa) / Siilinjärvi (Pohjois-Savo)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Espoo (Uusimaa) / Siilinjärvi (Pohjois-Savo)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Finland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:05:22 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 11'' ( alle  17' 41'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 11''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  17' 41''</div></td>
+</tr>
+<tr class="" idresultado="14156">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">41</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 45"><div class="puesto">41</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Klara Wesselkamp  <br>  Matthias Gugel<br></div>
+		<div class="ver_movil"><span class="direccion">Kopenhagen (Hovedstaden) / Altbach (Bw)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Kopenhagen (Hovedstaden) / Altbach (Bw)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:05:31 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 09' ( alle  17' 50'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 09'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  17' 50''</div></td>
+</tr>
+<tr class="" idresultado="14108">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">42</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 60"><div class="puesto">42</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/NL.png" title="The Netherlands"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/NL.png" title="The Netherlands"> The Netherlands </div><div>Erik Greijdanus  <br>  Ellen Sinot<br></div>
+		<div class="ver_movil"><span class="direccion">Waalre (Nb)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Waalre (Nb)</td>
+	<td valign="middle" class="ver_pc" nowrap="">The Netherlands</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:06:02 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 31'' ( alle  18' 21'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 31''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  18' 21''</div></td>
+</tr>
+<tr class="" idresultado="14157">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">43</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 47"><div class="puesto">43</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Janna Franzkeit  <br>  Marc Fabel<br></div>
+		<div class="ver_movil"><span class="direccion">Hamburg</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Hamburg</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:06:09 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 07' ( alle  18' 28'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 07'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  18' 28''</div></td>
+</tr>
+<tr class="" idresultado="14137">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">43</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 51"><div class="puesto">43</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/SE.png" title="Sweden"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/SE.png" title="Sweden"> Sweden </div><div>Sara Kristersson  <br>  Tobias Priemer<br></div>
+		<div class="ver_movil"><span class="direccion">Malmö (Skåne) / Dalby (Skåne)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Malmö (Skåne) / Dalby (Skåne)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Sweden</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:06:09 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 00' ( alle  18' 28'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 00'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  18' 28''</div></td>
+</tr>
+<tr class="" idresultado="14104">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">45</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 23"><div class="puesto">45</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/NL.png" title="The Netherlands"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/NL.png" title="The Netherlands"> The Netherlands </div><div>Inge Sinot  <br>  Jan Sinot<br></div>
+		<div class="ver_movil"><span class="direccion">Budel (Noord-Brabant) / Waalre (Noord-Brabant)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Budel (Noord-Brabant) / Waalre (Noord-Brabant)</td>
+	<td valign="middle" class="ver_pc" nowrap="">The Netherlands</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:06:15 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 06' ( alle  18' 34'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 06'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  18' 34''</div></td>
+</tr>
+<tr class="" idresultado="14106">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">46</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 25"><div class="puesto">46</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/SE.png" title="Sweden"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/SE.png" title="Sweden"> Sweden </div><div>Frida Westler  <br>  Hanna Karlsson<br></div>
+		<div class="ver_movil"><span class="direccion">Gothenburg</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Gothenburg</td>
+	<td valign="middle" class="ver_pc" nowrap="">Sweden</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:06:16 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 01' ( alle  18' 35'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 01'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  18' 35''</div></td>
+</tr>
+<tr class="" idresultado="14176">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">47</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 57"><div class="puesto">47</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Lindsay Steenstra  <br>  Min-Yee Deng<br></div>
+		<div class="ver_movil"><span class="direccion">San Diego (California)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">San Diego (California)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:06:53 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 37'' ( alle  19' 12'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 37''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  19' 12''</div></td>
+</tr>
+<tr class="" idresultado="14177">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">48</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 73"><div class="puesto">48</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Maja Von Borstel  <br>  Christian König<br></div>
+		<div class="ver_movil"><span class="direccion">Berlin / Karlsruhe (Baden-Württemberg)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Berlin / Karlsruhe (Baden-Württemberg)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:06:57 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 04' ( alle  19' 16'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 04'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  19' 16''</div></td>
+</tr>
+<tr class="" idresultado="14120">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">49</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 67"><div class="puesto">49</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Katherine Dilks  <br>  Gail McCormick<br></div>
+		<div class="ver_movil"><span class="direccion">Haddonfield (New Jersey) / State College (Pennsylvania)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Haddonfield (New Jersey) / State College (Pennsylvania)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:07:11 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 14'' ( alle  19' 30'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 14''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  19' 30''</div></td>
+</tr>
+<tr class="" idresultado="14162">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">50</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 39"><div class="puesto">50</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/ES.png" title="Spain"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/ES.png" title="Spain"> Spain </div><div>Eduardo Moreno Turcu  <br>  Alejandro Heras Gago<br></div>
+		<div class="ver_movil"><span class="direccion">Guadalajara / Colmenar Viejo (Madrid)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Guadalajara / Colmenar Viejo (Madrid)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Spain</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:07:31 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 20'' ( alle  19' 50'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 20''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  19' 50''</div></td>
+</tr>
+<tr class="" idresultado="14171">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">51</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 71"><div class="puesto">51</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/NL.png" title="The Netherlands"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/NL.png" title="The Netherlands"> The Netherlands </div><div>Rowan Versteege  <br>  Jesse Jansen<br></div>
+		<div class="ver_movil"><span class="direccion">Delft (Zuid-Holland) / Zoetermeer (Zuid Holland)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Delft (Zuid-Holland) / Zoetermeer (Zuid Holland)</td>
+	<td valign="middle" class="ver_pc" nowrap="">The Netherlands</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:07:32 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 01' ( alle  19' 51'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 01'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  19' 51''</div></td>
+</tr>
+<tr class="" idresultado="14103">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">52</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 48"><div class="puesto">52</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/PL.png" title="Poland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/PL.png" title="Poland"> Poland </div><div>Paulina Polańska  <br>  Martyna Halter-Bogołębska<br></div>
+		<div class="ver_movil"><span class="direccion">Wrocław (Dolnośląskie) / Warsaw (Mazowieckie)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Wrocław (Dolnośląskie) / Warsaw (Mazowieckie)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Poland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:07:33 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 01' ( alle  19' 52'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 01'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  19' 52''</div></td>
+</tr>
+<tr class="" idresultado="14158">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">53</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 43"><div class="puesto">53</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/CZ.png" title="Czech Republic"> Czech Republic </div><div>Jan Škoch  <br>  Martin Petráž<br></div>
+		<div class="ver_movil"><span class="direccion">Prague</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Prague</td>
+	<td valign="middle" class="ver_pc" nowrap="">Czech Republic</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:07:37 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 04' ( alle  19' 56'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 04'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  19' 56''</div></td>
+</tr>
+<tr class="" idresultado="14144">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">54</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 30"><div class="puesto">54</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Christina Reiner  <br>  Mia Oehmig<br></div>
+		<div class="ver_movil"><span class="direccion">Regensburg (Bavaria) / Münster (Nrw)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Regensburg (Bavaria) / Münster (Nrw)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:07:41 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 04' ( alle  20' 00')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 04'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  20' 00'</div></td>
+</tr>
+<tr class="" idresultado="14134">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">55</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 91"><div class="puesto">55</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/PT.png" title="Portugal"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/PT.png" title="Portugal"> Portugal </div><div>Mariana Mendes  <br>  João Faria<br></div>
+		<div class="ver_movil"><span class="direccion">Quarteira (Faro) / Vila Do Conde (Porto)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Quarteira (Faro) / Vila Do Conde (Porto)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Portugal</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:08:08 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 27'' ( alle  20' 27'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 27''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  20' 27''</div></td>
+</tr>
+<tr class="" idresultado="14148">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">56</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 69"><div class="puesto">56</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/FR.png" title="France"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/FR.png" title="France"> France </div><div>Lily Cruz  <br>  Edmond Boutry<br></div>
+		<div class="ver_movil"><span class="direccion">Louisfert (Loire Atlantique) / Châtellerault (Poitou Charentes)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Louisfert (Loire Atlantique) / Châtellerault (Poitou Charentes)</td>
+	<td valign="middle" class="ver_pc" nowrap="">France</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:09:08 </div>
+		<div class="ver_movil diftiempo"><span class="">+1' 00' ( alle  21' 27'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+1' 00'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  21' 27''</div></td>
+</tr>
+<tr class="" idresultado="14113">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">57</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 53"><div class="puesto">57</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/CH.png" title="Switzerland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/CH.png" title="Switzerland"> Switzerland </div><div>Patrick Inniger  <br>  Veronika Altinger<br></div>
+		<div class="ver_movil"><span class="direccion">Thun (Bern) / Salzburg</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Thun (Bern) / Salzburg</td>
+	<td valign="middle" class="ver_pc" nowrap="">Switzerland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:09:23 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 15'' ( alle  21' 42'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 15''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  21' 42''</div></td>
+</tr>
+<tr class="" idresultado="14173">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">58</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 36"><div class="puesto">58</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/PL.png" title="Poland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/PL.png" title="Poland"> Poland </div><div>Justyna Sokołowska  <br>  Krystian Niedziela<br></div>
+		<div class="ver_movil"><span class="direccion">Andrychów (Małopolska) / Sosnowiec (Śląskie)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Andrychów (Małopolska) / Sosnowiec (Śląskie)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Poland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:09:28 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 05' ( alle  21' 47'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 05'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  21' 47''</div></td>
+</tr>
+<tr class="" idresultado="14129">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">59</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 56"><div class="puesto">59</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Erika Ritz  <br>  Merle Kleemann<br></div>
+		<div class="ver_movil"><span class="direccion">Brühl (Nrw) / Aachen (Nrw)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Brühl (Nrw) / Aachen (Nrw)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:09:29 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 01' ( alle  21' 48'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 01'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  21' 48''</div></td>
+</tr>
+<tr class="" idresultado="14168">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">60</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 62"><div class="puesto">60</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/PL.png" title="Poland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/PL.png" title="Poland"> Poland </div><div>Anna Dyl  <br>  Weronika Huptas<br></div>
+		<div class="ver_movil"><span class="direccion">Wieliczka (Malopolskie) / Skarzysko Koscielne (Swietokrzyskie)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Wieliczka (Malopolskie) / Skarzysko Koscielne (Swietokrzyskie)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Poland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:09:58 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 29'' ( alle  22' 17'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 29''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  22' 17''</div></td>
+</tr>
+<tr class="" idresultado="14089">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">61</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 33"><div class="puesto">61</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/IT.png" title="Italy"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/IT.png" title="Italy"> Italy </div><div>Lorenzo Dalla Valle  <br>  Michela Utili<br></div>
+		<div class="ver_movil"><span class="direccion">Lozzo Atestino (Padova) / Riolo Terme (Ravenna)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Lozzo Atestino (Padova) / Riolo Terme (Ravenna)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Italy</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:10:10 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 12'' ( alle  22' 29'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 12''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  22' 29''</div></td>
+</tr>
+<tr class="" idresultado="14150">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">62</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 54"><div class="puesto">62</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Jörn Schrieber  <br>  Maren Faber<br></div>
+		<div class="ver_movil"><span class="direccion">Hamburg / Lübeck (Schleswig-Holstein)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Hamburg / Lübeck (Schleswig-Holstein)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:10:24 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 14'' ( alle  22' 43'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 14''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  22' 43''</div></td>
+</tr>
+<tr class="" idresultado="14128">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">63</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 96"><div class="puesto">63</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/LV.png" title="Latvia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/LV.png" title="Latvia"> Latvia </div><div>Linda Jukmane  <br>  Laura Ķezbere<br></div>
+		<div class="ver_movil"><span class="direccion">Riga (Latvia) / Rujiena (Valmieras Novads)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Riga (Latvia) / Rujiena (Valmieras Novads)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Latvia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:10:29 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 05' ( alle  22' 48'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 05'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  22' 48''</div></td>
+</tr>
+<tr class="" idresultado="14159">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">64</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 21"><div class="puesto">64</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/ES.png" title="Spain"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/ES.png" title="Spain"> Spain </div><div>Rafael Amieva Gómez  <br>  Laura Aizpurua de Arteche<br></div>
+		<div class="ver_movil"><span class="direccion">Madrid</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Madrid</td>
+	<td valign="middle" class="ver_pc" nowrap="">Spain</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:10:30 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 01' ( alle  22' 49'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 01'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  22' 49''</div></td>
+</tr>
+<tr class="" idresultado="14136">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">65</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 80"><div class="puesto">65</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Elizabeth Walters  <br>  Andrea Reynolds<br></div>
+		<div class="ver_movil"><span class="direccion">Crystal (Minnesota) / Ypsilanti (Mi)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Crystal (Minnesota) / Ypsilanti (Mi)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:10:37 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 07' ( alle  22' 56'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 07'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  22' 56''</div></td>
+</tr>
+<tr class="" idresultado="14180">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">66</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 65"><div class="puesto">66</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Conrad Leuschner  <br>  Chloé Olivi<br></div>
+		<div class="ver_movil"><span class="direccion">Berlin / Toulon (Sud)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Berlin / Toulon (Sud)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:10:47 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 10'' ( alle  23' 06')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 10''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  23' 06'</div></td>
+</tr>
+<tr class="" idresultado="14117">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">67</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 64"><div class="puesto">67</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/DE.png" title="Germany"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/DE.png" title="Germany"> Germany </div><div>Alina Schering  <br>  Jana Katharina Ebner<br></div>
+		<div class="ver_movil"><span class="direccion">Selb (Bayern) / Heidelberg (Baden-Württemberg)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Selb (Bayern) / Heidelberg (Baden-Württemberg)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Germany</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:10:52 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 05' ( alle  23' 11'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 05'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  23' 11''</div></td>
+</tr>
+<tr class="" idresultado="14131">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">68</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 88"><div class="puesto">68</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/AU.png" title="Australia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/AU.png" title="Australia"> Australia </div><div>Louise Jackett  <br>  Ellie Higgins<br></div>
+		<div class="ver_movil"><span class="direccion">Melbourne (Victoria)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Melbourne (Victoria)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Australia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:11:14 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 22'' ( alle  23' 33'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 22''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  23' 33''</div></td>
+</tr>
+<tr class="" idresultado="14123">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">69</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 84"><div class="puesto">69</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/ES.png" title="Spain"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/ES.png" title="Spain"> Spain </div><div>Cristina López Rodríguez  <br>  Maria Dolors Torra Torreguitart<br></div>
+		<div class="ver_movil"><span class="direccion">Móstoles (Madrid) / Sabadell (Barcelona)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Móstoles (Madrid) / Sabadell (Barcelona)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Spain</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:11:22 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 08' ( alle  23' 41'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 08'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  23' 41''</div></td>
+</tr>
+<tr class="" idresultado="14181">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">70</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 97"><div class="puesto">70</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/CA.png" title="Canada"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/CA.png" title="Canada"> Canada </div><div>Danielle Engleson  <br>  Kaitlyn McCluskie<br></div>
+		<div class="ver_movil"><span class="direccion">Camlachie (Ontario) / Toronto (On)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Camlachie (Ontario) / Toronto (On)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Canada</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:11:25 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 03' ( alle  23' 44'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 03'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  23' 44''</div></td>
+</tr>
+<tr class="" idresultado="14166">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">71</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 49"><div class="puesto">71</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/AT.png" title="Austria"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/AT.png" title="Austria"> Austria </div><div>Barbara Di Angelo  <br>  Magdalena Kirnbauer<br></div>
+		<div class="ver_movil"><span class="direccion">Wien / Vienna</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Wien / Vienna</td>
+	<td valign="middle" class="ver_pc" nowrap="">Austria</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:11:49 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 24'' ( alle  24' 08')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 24''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  24' 08'</div></td>
+</tr>
+<tr class="" idresultado="14105">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">72</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 50"><div class="puesto">72</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/WP.png" title="International Puzzlers"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/WP.png" title="International Puzzlers"> International Puzzlers </div><div>Valentina Baburchenkova  <br>  Vita Kalinina<br></div>
+		<div class="ver_movil"><span class="direccion">Novosibirsk</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Novosibirsk</td>
+	<td valign="middle" class="ver_pc" nowrap="">International Puzzlers</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:11:59 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 10'' ( alle  24' 18'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 10''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  24' 18''</div></td>
+</tr>
+<tr class="" idresultado="14182">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">73</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 89"><div class="puesto">73</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/IE.png" title="Ireland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/IE.png" title="Ireland"> Ireland </div><div>Emma Quirke  <br>  Darren Quirke<br></div>
+		<div class="ver_movil"><span class="direccion">Killarney (Kerry)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Killarney (Kerry)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Ireland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:12:20 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 21'' ( alle  24' 39'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 21''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  24' 39''</div></td>
+</tr>
+<tr class="" idresultado="14115">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">74</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 58"><div class="puesto">74</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/NO.png" title="Norway"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/NO.png" title="Norway"> Norway </div><div>Leif Jone Ølberg  <br>  Ole Marton Ølberg<br></div>
+		<div class="ver_movil"><span class="direccion">Stavanger (Rogaland) / Alversund (Vestland)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Stavanger (Rogaland) / Alversund (Vestland)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Norway</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:12:21 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 01' ( alle  24' 40'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 01'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  24' 40''</div></td>
+</tr>
+<tr class="" idresultado="14169">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">75</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 63"><div class="puesto">75</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/MY.png" title="Malaysia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/MY.png" title="Malaysia"> Malaysia </div><div>Jessica Mak  <br>  Grace Tham<br></div>
+		<div class="ver_movil"><span class="direccion">Singapore / Sydney (Nsw)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Singapore / Sydney (Nsw)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Malaysia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:12:44 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 23'' ( alle  25' 03')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 23''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  25' 03'</div></td>
+</tr>
+<tr class="" idresultado="14170">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">76</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 59"><div class="puesto">76</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/FR.png" title="France"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/FR.png" title="France"> France </div><div>Nathan Anselme  <br>  Megan Anselme<br></div>
+		<div class="ver_movil"><span class="direccion">Angers (Pays de la Loire)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Angers (Pays de la Loire)</td>
+	<td valign="middle" class="ver_pc" nowrap="">France</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:12:47 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 03' ( alle  25' 06')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 03'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  25' 06'</div></td>
+</tr>
+<tr class="" idresultado="14186">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">77</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 90"><div class="puesto">77</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/LV.png" title="Latvia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/LV.png" title="Latvia"> Latvia </div><div>Marta Lapina  <br>  Ineta Gritāne-Čakova<br></div>
+		<div class="ver_movil"><span class="direccion">Riga</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Riga</td>
+	<td valign="middle" class="ver_pc" nowrap="">Latvia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:12:54 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 07' ( alle  25' 13'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 07'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  25' 13''</div></td>
+</tr>
+<tr class="" idresultado="14118">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">78</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 27"><div class="puesto">78</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/SE.png" title="Sweden"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/SE.png" title="Sweden"> Sweden </div><div>Lydia Holmgren  <br>  Tova Holmgren<br></div>
+		<div class="ver_movil"><span class="direccion">Gävle (Gävleborg)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Gävle (Gävleborg)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Sweden</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:13:21 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 27'' ( alle  25' 40'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 27''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  25' 40''</div></td>
+</tr>
+<tr class="" idresultado="14126">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">79</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 95"><div class="puesto">79</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/BE.png" title="Belgium"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/BE.png" title="Belgium"> Belgium </div><div>Fenna Bontje  <br>  Rudolf De Bruijn<br></div>
+		<div class="ver_movil"><span class="direccion">Eppegem (Vlaams Brabant)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Eppegem (Vlaams Brabant)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Belgium</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:13:30 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 09' ( alle  25' 49'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 09'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  25' 49''</div></td>
+</tr>
+<tr class="" idresultado="14133">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">80</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 86"><div class="puesto">80</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Amy Paull  <br>  Alexx Cisotto<br></div>
+		<div class="ver_movil"><span class="direccion">The Woodlands (Texas) / Houston (Texas)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">The Woodlands (Texas) / Houston (Texas)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:13:40 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 10'' ( alle  25' 59'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 10''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  25' 59''</div></td>
+</tr>
+<tr class="" idresultado="14184">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">81</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 79"><div class="puesto">81</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/PL.png" title="Poland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/PL.png" title="Poland"> Poland </div><div>Aleksandra Chrząstek  <br>  Elisabeth Merendi<br></div>
+		<div class="ver_movil"><span class="direccion">Bydgoszcz (Kujawsko-Pomorskie) / Viljandi (Viljandimaa)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Bydgoszcz (Kujawsko-Pomorskie) / Viljandi (Viljandimaa)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Poland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:14:08 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 28'' ( alle  26' 27'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 28''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  26' 27''</div></td>
+</tr>
+<tr class="" idresultado="14121">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">82</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 93"><div class="puesto">82</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/RO.png" title="Romania"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/RO.png" title="Romania"> Romania </div><div>Smaranda Polojan  <br>  Martine Van Ekris<br></div>
+		<div class="ver_movil"><span class="direccion">Amsterdam (Noord-Holland) / Nigtevecht (Utrecht)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Amsterdam (Noord-Holland) / Nigtevecht (Utrecht)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Romania</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:14:18 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 10'' ( alle  26' 37'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 10''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  26' 37''</div></td>
+</tr>
+<tr class="" idresultado="14110">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">83</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 70"><div class="puesto">83</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/IS.png" title="Iceland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/IS.png" title="Iceland"> Iceland </div><div>Hrefna Guðlaugardóttir  <br>  Agústa Dan Árnadóttir<br></div>
+		<div class="ver_movil"><span class="direccion">Reykjavík</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Reykjavík</td>
+	<td valign="middle" class="ver_pc" nowrap="">Iceland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:14:50 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 32'' ( alle  27' 09')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 32''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  27' 09'</div></td>
+</tr>
+<tr class="" idresultado="14135">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">84</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 82"><div class="puesto">84</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/ES.png" title="Spain"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/ES.png" title="Spain"> Spain </div><div>David Corbí Garrido  <br>  José Manuel Corbí Garrido<br></div>
+		<div class="ver_movil"><span class="direccion">Madrid</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Madrid</td>
+	<td valign="middle" class="ver_pc" nowrap="">Spain</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:15:18 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 28'' ( alle  27' 37'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 28''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  27' 37''</div></td>
+</tr>
+<tr class="" idresultado="14172">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">85</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 41"><div class="puesto">85</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/LT.png" title="Lithuania"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/LT.png" title="Lithuania"> Lithuania </div><div>Inga Strukčinskaitė  <br>  Kotryna Kostiukaitė<br></div>
+		<div class="ver_movil"><span class="direccion">Vilnius</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Vilnius</td>
+	<td valign="middle" class="ver_pc" nowrap="">Lithuania</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:15:24 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 06' ( alle  27' 43'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 06'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  27' 43''</div></td>
+</tr>
+<tr class="" idresultado="14130">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">86</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 85"><div class="puesto">86</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/US.png" title="USA"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/US.png" title="USA"> USA </div><div>Claire Thomas  <br>  Chloe Muellers<br></div>
+		<div class="ver_movil"><span class="direccion">Wheat Ridge (Co) / Monterey (Ma)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Wheat Ridge (Co) / Monterey (Ma)</td>
+	<td valign="middle" class="ver_pc" nowrap="">USA</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:15:51 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 27'' ( alle  28' 10'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 27''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  28' 10''</div></td>
+</tr>
+<tr class="" idresultado="14154">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">87</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 68"><div class="puesto">87</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/AT.png" title="Austria"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/AT.png" title="Austria"> Austria </div><div>Bettina Krammer  <br>  Simone Reicht<br></div>
+		<div class="ver_movil"><span class="direccion">Weiz (Styria) / Vienna (Austria)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Weiz (Styria) / Vienna (Austria)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Austria</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:15:56 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 05' ( alle  28' 15'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 05'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  28' 15''</div></td>
+</tr>
+<tr class="" idresultado="14145">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">88</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 77"><div class="puesto">88</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/AU.png" title="Australia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/AU.png" title="Australia"> Australia </div><div>Rhys Dewar  <br>  Sarah Carsten<br></div>
+		<div class="ver_movil"><span class="direccion">Queensland / Hendra (Queensland)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Queensland / Hendra (Queensland)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Australia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:16:50 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 54'' ( alle  29' 09')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 54''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  29' 09'</div></td>
+</tr>
+<tr class="" idresultado="14163">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">89</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 37"><div class="puesto">89</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/FI.png" title="Finland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/FI.png" title="Finland"> Finland </div><div>Rosa Frauenknecht  <br>  Kira Rainvuori<br></div>
+		<div class="ver_movil"><span class="direccion">Helsinki (Uusimaa)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Helsinki (Uusimaa)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Finland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:17:05 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 15'' ( alle  29' 24'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 15''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  29' 24''</div></td>
+</tr>
+<tr class="" idresultado="14179">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">90</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 92"><div class="puesto">90</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/NO.png" title="Norway"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/NO.png" title="Norway"> Norway </div><div>Gaute Brakstad  <br>  Siv Bremnes<br></div>
+		<div class="ver_movil"><span class="direccion">Valnesfjord (Nordland) / Bodø (Nordland)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Valnesfjord (Nordland) / Bodø (Nordland)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Norway</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:17:35 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 30'' ( alle  29' 54'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 30''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  29' 54''</div></td>
+</tr>
+<tr class="" idresultado="14175">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">91</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 75"><div class="puesto">91</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/PL.png" title="Poland"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/PL.png" title="Poland"> Poland </div><div>Dorota Gapinska  <br>  Monika Nawrot<br></div>
+		<div class="ver_movil"><span class="direccion">Warsaw (Mazovia)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Warsaw (Mazovia)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Poland</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:17:38 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 03' ( alle  29' 57'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 03'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  29' 57''</div></td>
+</tr>
+<tr class="" idresultado="14122">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">92</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 74"><div class="puesto">92</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/FR.png" title="France"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/FR.png" title="France"> France </div><div>Delphine Leboisne-Maria  <br>  Sémilia Baylé<br></div>
+		<div class="ver_movil"><span class="direccion">Toulouse (Occitanie)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Toulouse (Occitanie)</td>
+	<td valign="middle" class="ver_pc" nowrap="">France</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:17:40 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 02' ( alle  29' 59'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 02'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  29' 59''</div></td>
+</tr>
+<tr class="" idresultado="14132">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">93</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 61"><div class="puesto">93</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/BG.png" title="Bulgaria"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/BG.png" title="Bulgaria"> Bulgaria </div><div>Elitsa Kerefeyska  <br>  Vesela Sadovska<br></div>
+		<div class="ver_movil"><span class="direccion">Varna / Sofia</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Varna / Sofia</td>
+	<td valign="middle" class="ver_pc" nowrap="">Bulgaria</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:18:33 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 53'' ( alle  30' 52'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 53''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  30' 52''</div></td>
+</tr>
+<tr class="" idresultado="14155">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">94</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 87"><div class="puesto">94</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/CO.png" title="Colombia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/CO.png" title="Colombia"> Colombia </div><div>Jimena Gordillo Uribe  <br>  Judit Moreno Vallès<br></div>
+		<div class="ver_movil"><span class="direccion">Castellbisbal (Barcelona) / Hospitalet de Llobregat (Barcelona)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Castellbisbal (Barcelona) / Hospitalet de Llobregat (Barcelona)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Colombia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:18:42 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 09' ( alle  31' 01')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 09'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  31' 01'</div></td>
+</tr>
+<tr class="" idresultado="14111">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">95</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 72"><div class="puesto">95</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/FR.png" title="France"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/FR.png" title="France"> France </div><div>Flavie Girard  <br>  Roussière Nolan<br></div>
+		<div class="ver_movil"><span class="direccion">St Colomban (Loire Atlantique) / Vair-Sur-Loire (Loire-Atlantique)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">St Colomban (Loire Atlantique) / Vair-Sur-Loire (Loire-Atlantique)</td>
+	<td valign="middle" class="ver_pc" nowrap="">France</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:20:48 </div>
+		<div class="ver_movil diftiempo"><span class="">+2' 06' ( alle  33' 07')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+2' 06'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  33' 07'</div></td>
+</tr>
+<tr class="" idresultado="14185">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">96</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 94"><div class="puesto">96</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/GB.png" title="United Kingdom"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/GB.png" title="United Kingdom"> United Kingdom </div><div>James Nickells  <br>  Kasia Nickells<br></div>
+		<div class="ver_movil"><span class="direccion">Hawkesbury Upton (South Gloucestershire)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Hawkesbury Upton (South Gloucestershire)</td>
+	<td valign="middle" class="ver_pc" nowrap="">United Kingdom</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:22:40 </div>
+		<div class="ver_movil diftiempo"><span class="">+1' 52'' ( alle  34' 59'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+1' 52''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  34' 59''</div></td>
+</tr>
+<tr class="" idresultado="14174">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">97</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 98"><div class="puesto">97</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/HR.png" title="Croatia"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/HR.png" title="Croatia"> Croatia </div><div>Elena Kovačević  <br>  Beata Libon<br></div>
+		<div class="ver_movil"><span class="direccion">Split (Splitsko Dalmatinska) / Rumia (Pomeranian)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Split (Splitsko Dalmatinska) / Rumia (Pomeranian)</td>
+	<td valign="middle" class="ver_pc" nowrap="">Croatia</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:22:47 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 07' ( alle  35' 06')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 07'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  35' 06'</div></td>
+</tr>
+<tr class="" idresultado="14165">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">98</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 81"><div class="puesto">98</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/AT.png" title="Austria"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/AT.png" title="Austria"> Austria </div><div>Karin Klauser  <br>  Verena Klauser<br></div>
+		<div class="ver_movil"><span class="direccion">Texing (Lower Austria) / Vienna</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Texing (Lower Austria) / Vienna</td>
+	<td valign="middle" class="ver_pc" nowrap="">Austria</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:22:50 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 03' ( alle  35' 09')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 03'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  35' 09'</div></td>
+</tr>
+<tr class="" idresultado="14178">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">99</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 100"><div class="puesto">99</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/PT.png" title="Portugal"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/PT.png" title="Portugal"> Portugal </div><div>Sara Gomes  <br>  Mª Francisca Cunha<br></div>
+		<div class="ver_movil"><span class="direccion">Famalicão (Braga) / Porto</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Famalicão (Braga) / Porto</td>
+	<td valign="middle" class="ver_pc" nowrap="">Portugal</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:23:26 </div>
+		<div class="ver_movil diftiempo"><span class="">+ 36'' ( alle  35' 45'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+ 36''</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  35' 45''</div></td>
+</tr>
+<tr class="" idresultado="14183">
+    <td valign="middle" align="center" style="padding:0"><div class="ver_movil puesto">100</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc" title="Mesa 99"><div class="puesto">100</div></td>
+	<td valign="middle" align="center" style="padding:5px;" class="ver_pc"><div class="puesto"><img src="img/flags/shiny/32/NZ.png" title="New Zealand"></div></td>
+	<td valign="middle" title=""><div class="ver_movil pais_movil"><img src="img/flags/shiny/32/NZ.png" title="New Zealand"> New Zealand </div><div>Andrea Boughey  <br>  Steve Raine<br></div>
+		<div class="ver_movil"><span class="direccion">Auckland / Nottingham (Notts)</span></div>
+	</td>
+	<td valign="middle" class="ver_pc">Auckland / Nottingham (Notts)</td>
+	<td valign="middle" class="ver_pc" nowrap="">New Zealand</td>
+	<td valign="middle" align="" class="" nowrap=""><div class="tiempo">01:26:33 </div>
+		<div class="ver_movil diftiempo"><span class="">+3' 07' ( alle  38' 52'')</span></div>		<div class="ver_movil"></div> 
+	</td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div>+3' 07'</div></td>
+	<td valign="middle" align="center" class="ver_pc" nowrap=""><div> alle  38' 52''</div></td>
+</tr>
